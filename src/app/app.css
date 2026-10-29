@@ -1,0 +1,13 @@
+.contenedor { max-width: 960px; margin: auto; padding: 64px 24px 24px; }
+.etiqueta { color: #54647a; font-size: 12px; font-weight: 700; letter-spacing: 1px; }
+h1 { margin: 16px 0; font-size: clamp(30px, 5vw, 48px); letter-spacing: -1.5px; }
+.cabecera p { color: #526176; max-width: 650px; line-height: 1.7; margin-bottom: 32px; }
+.explicacion { margin-top: 40px; }
+h2 { font-size: 21px; }
+.pasos { display: flex; gap: 16px; }
+article { flex: 1; background: white; border: 1px solid #dce3ec; border-radius: 14px; padding: 22px; }
+article span { color: #63728a; font-size: 12px; font-weight: bold; }
+h3 { margin: 14px 0 8px; }
+article p { color: #526176; font-size: 14px; line-height: 1.6; margin: 0; }
+footer { margin-top: 40px; padding-top: 20px; border-top: 1px solid #dce3ec; color: #63728a; font-size: 13px; }
+@media (max-width: 650px) { .contenedor { padding-top: 32px; } .pasos { flex-direction: column; } }
