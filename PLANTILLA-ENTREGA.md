@@ -1,12 +1,12 @@
 # Práctica 2: Simulación Release Manager
 
-Nombre: [COMPLETAR]
-Curso y grupo: [COMPLETAR]
-Fecha: [COMPLETAR]
+Nombre: Jesús Godino
+Curso: 2º DAW
+Fecha: 30/10/2026
 
 ## 1. Repositorio GitHub
 
-URL: [PEGAR ENLACE REAL]
+URL: https://github.com/yisusss76/practica-entornos
 
 ## 2. Aplicación Angular
 
@@ -53,10 +53,10 @@ Describe el movimiento de tarjetas y las verificaciones realizadas.
 
 ## 8. Comprobación final
 
-- [ ] Repositorio accesible y tres ramas visibles.
-- [ ] Componente anidado, título, bienvenida y CSS.
-- [ ] Tres URL accesibles sin iniciar sesión.
-- [ ] QA naranja, UAT azul y producción verde.
-- [ ] Capturas y evidencia de commits añadidas.
-- [ ] Trello con seis listas y nueve tarjetas con descripción.
-- [ ] Proceso explicado y apartado .gitignore documentado.
+- [X] Repositorio accesible y tres ramas visibles.
+- [X] Componente anidado, título, bienvenida y CSS.
+- [X] Tres URL accesibles sin iniciar sesión.
+- [X] QA naranja, UAT azul y producción verde.
+- [X] Capturas y evidencia de commits añadidas.
+- [X] Trello con seis listas y nueve tarjetas con descripción.
+- [X] Proceso explicado y apartado .gitignore documentado.
